@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 >
   <a
     class='LI-simple-link'
-    href='https://in.linkedin.com/in/manavoza7?trk=profile-badge'
+    href='https://in.linkedin.com/in/nishant-movaliya-6b8813169'
   >
-    Manav Oza
+    nishantmovaliya
   </a>
 </div>
 
