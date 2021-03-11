@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 <a href="https://dev.to/nishantmovaliya">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="nishantmovaliya's DEV Profile" height="30" width="30">
 </a>
-<a href ="https://in.linkedin.com/in/nishant-movaliya-6b8813169">
-  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
