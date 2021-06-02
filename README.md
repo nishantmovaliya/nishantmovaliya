@@ -24,13 +24,6 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
-## Support
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" />
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme=radical" alt="nishantmovaliya" />
-</p>
-
 ## Language and Tools Used
 <p>
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
@@ -41,3 +34,10 @@ Here are some ideas to get you started:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
  </p>
+
+## Support
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" />
+<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme=radical" alt="nishantmovaliya" />
+</p>
