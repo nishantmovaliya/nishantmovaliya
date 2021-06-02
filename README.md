@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 <a href="mailto:nishantpatel7042@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
+## Support
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" />
+<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme=radical" alt="nishantmovaliya" />
+</p>
 
 ## Language and Tools Used
 <p>
