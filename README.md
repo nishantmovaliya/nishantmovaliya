@@ -32,13 +32,14 @@ Here are some ideas to get you started:
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/arduino.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/eclipse.svg" />
  </p>
 
 ## Support
