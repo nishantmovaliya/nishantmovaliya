@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 ## Support
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" /><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme=radical" alt="nishantmovaliya" />
 </p>
