@@ -39,7 +39,7 @@ Here are some ideas to get you started:
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/arduino.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/jupyter.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/premierepro.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
  
  </p>
 
@@ -49,3 +49,5 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" /><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme=radical" alt="nishantmovaliya" />
 </p>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true" align="center"/> -->
