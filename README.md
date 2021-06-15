@@ -34,11 +34,11 @@ Here are some ideas to get you started:
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/php.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/github.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
+ <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/anaconda.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/arduino.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jupyter.svg" />
+ <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/androidstudio.svg" />
+ <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/adobepremierepro.svg" />
+ <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/jupyter.svg" />
  </p>
 
 ## Support
