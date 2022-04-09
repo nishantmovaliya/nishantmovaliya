@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" />
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme=radical" alt="nishantmovaliya" />
+<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" />
 </p>
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true" align="center"/> -->
