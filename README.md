@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">, I'm [Nishant Movaliya!] 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
 <!--
 **nishantmovaliya/nishantmovaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
