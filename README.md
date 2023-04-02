@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 <img height="36" width="36" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/typescript.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/nestjs.svg"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/redis.svg"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/postgresql.svg"/>
+ <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="35" height="35"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/mongodb.svg"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/git.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/aws.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/java.svg" />
@@ -37,8 +42,8 @@ Here are some ideas to get you started:
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/php.svg" />
- <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="35" height="35"/>
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/github.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/gitlab.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/visual-studio-code.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/anaconda.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/arduino.svg" />
