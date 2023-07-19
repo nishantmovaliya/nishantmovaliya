@@ -52,7 +52,6 @@ Here are some ideas to get you started:
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
  
  </p>
- <a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/938520f527e9462bbee91d537257db82.png?r=y7e" width="400" alt="nishant movaliya 's Dev Card"/></a>
 
 ## Support
 
