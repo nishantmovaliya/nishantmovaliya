@@ -1,5 +1,8 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
+<br/>
+👨‍💻 I'm Backend developer.
+
 <!--
 **nishantmovaliya/nishantmovaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🌐 Socials
+
 <a href="https://dev.to/nishantmovaliya">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="nishantmovaliya's DEV Profile" height="30" width="30">
 </a>
@@ -53,11 +58,18 @@ Here are some ideas to get you started:
  
  </p>
 
-## Support
+## 📊 GitHub Stats:
 
 <p>
+<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" /><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nishantmovaliya&theme=dark&hide_border=false)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" />
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true" align="center"/> -->
 </p>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true" align="center"/> -->
+<!-- ## 📈 Leetcode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/nishantmovaliya?ext=heatmap) -->
+
+---
+[![](https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0)](https://visitcount.itsvg.in)
+
