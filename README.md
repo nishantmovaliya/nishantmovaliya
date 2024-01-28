@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" />
+<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true&theme=dark&hide_border=false" align="center"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" /> -->
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantmovaliya&theme=dark&hide_border=false" alt="nishantmovaliya" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" />
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true" align="center"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="nishantmovaliya" />
 </p>
 
 <!-- ## 📈 Leetcode Stats:
