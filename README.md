@@ -61,15 +61,18 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats:
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" /><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nishantmovaliya&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantmovaliya&theme=dark&hide_border=false" alt="nishantmovaliya" />
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact" alt="nishantmovaliya" />
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true" align="center"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true" align="center"/>
 </p>
 
 <!-- ## 📈 Leetcode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nishantmovaliya?ext=heatmap) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0)](https://visitcount.itsvg.in) -->
+<img src="https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0" alt="visitcount" />
 
