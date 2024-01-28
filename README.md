@@ -1,7 +1,7 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
 <br/>
-👨‍💻 I'm Backend developer.
+<b>👨‍💻 I'm a Backend Developer.</b>
 
 <!--
 **nishantmovaliya/nishantmovaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <img height="36" width="36" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/nodejs.svg" />
 <img height="36" width="36" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/typescript.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/nestjs.svg"/>
+<img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/socket.io.svg"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/redis.svg"/>
 <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/postgresql.svg"/>
  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="35" height="35"/>
@@ -63,9 +64,9 @@ Here are some ideas to get you started:
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&count_private=true&theme=dark&hide_border=false" align="center"/>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=nishantmovaliya&show_icons=true&locale=en&theme" alt="nishantmovaliya" /> -->
-<br/>
+<br/><br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishantmovaliya&theme=dark&hide_border=false" alt="nishantmovaliya" />
-<br/>
+<br/><br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishantmovaliya&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=false" alt="nishantmovaliya" />
 </p>
 
