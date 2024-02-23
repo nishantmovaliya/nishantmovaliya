@@ -2,6 +2,7 @@
 
 <br/>
 <b>👨‍💻 I'm a Backend Developer.</b>
+<a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/v2/EhBaHx51B2sh1AtLphynI.png?type=wide&r=iq9" width="652" alt="nishant movaliya's Dev Card"/></a>
 
 <!--
 **nishantmovaliya/nishantmovaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -77,5 +78,5 @@ Here are some ideas to get you started:
 <!-- [![](https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <img src="https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0" alt="visitcount" />
 
-<hr>
-<a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/v2/EhBaHx51B2sh1AtLphynI.png?type=default&r=y7e" width="356" alt="nishant movaliya 's Dev Card"/></a>
+<!--<hr>
+<a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/v2/EhBaHx51B2sh1AtLphynI.png?type=default&r=y7e" width="356" alt="nishant movaliya 's Dev Card"/></a> -->
