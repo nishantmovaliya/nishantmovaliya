@@ -1,9 +1,12 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
 <br/>
-<b>👨‍💻 I'm a Backend Developer.</b>
+<b>👨‍💻 I'm a Backend Developer
+with 2.3 years of Experience.
+</b>
 <br>
-<a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/v2/EhBaHx51B2sh1AtLphynI.png?type=wide&r=iq9" width="652" alt="nishant movaliya's Dev Card"/></a>
+
+<!-- <a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/v2/EhBaHx51B2sh1AtLphynI.png?type=wide&r=iq9" width="652" alt="nishant movaliya's Dev Card"/></a> -->
 
 <!--
 **nishantmovaliya/nishantmovaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,7 +52,7 @@ Here are some ideas to get you started:
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/html-5.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/css-3.svg" />
- <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/php.svg" />
+ <!-- <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/php.svg" /> -->
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/github.svg" />
 <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/gitlab.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/visual-studio-code.svg" />
@@ -57,8 +60,8 @@ Here are some ideas to get you started:
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/arduino.svg" />
  <img height="32" width="32" src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/jupyter.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/androidstudio.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" />
- 
+ <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobepremierepro.svg" /> -->
+
  </p>
 
 ## 📊 GitHub Stats:
@@ -76,6 +79,7 @@ Here are some ideas to get you started:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/nishantmovaliya?ext=heatmap) -->
 
 ---
+### Profile Visitors:
 <!-- [![](https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <img src="https://visitcount.itsvg.in/api?id=nishantmovaliya&icon=0&color=0" alt="visitcount" />
 
