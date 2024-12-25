@@ -29,10 +29,12 @@ Here are some ideas to get you started:
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="nishantmovaliya's DEV Profile" height="30" width="30">
 </a>
 <a href="https://www.linkedin.com/in/nishant-movaliya-6b8813169/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <!-- <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/> -->
+  <img align="left" width="26px" src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="mailto:nishantpatel7042@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <!-- <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> -->
+  <img align="left" width="26px" src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 ## Language and Tools Used
