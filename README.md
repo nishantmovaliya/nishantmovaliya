@@ -1,3 +1,18 @@
+<style>
+  *{
+    /* margin: 0; */
+    /* padding:0; */
+    /* box-sizing: border-box; */
+    font-family: 'Montserrat', sans-serif;
+  }
+  .container{
+    background: linear-gradient(90deg, #1d2f30, #0d0e12);
+  }
+  img {
+    background-color: transparent; 
+  }
+</style>
+<div class=container>
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
 <br/>
@@ -85,3 +100,4 @@ Here are some ideas to get you started:
 
 <!--<hr>
 <a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/v2/EhBaHx51B2sh1AtLphynI.png?type=default&r=y7e" width="356" alt="nishant movaliya 's Dev Card"/></a> -->
+</div>
