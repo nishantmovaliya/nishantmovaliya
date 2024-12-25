@@ -1,4 +1,5 @@
-<div class=container style="font-family: 'Montserrat', sans-serif; background: linear-gradient(90deg, #1d2f30, #0d0e12);">
+<div class=container style="background-color: #1d2f30;">
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
 <br/>
