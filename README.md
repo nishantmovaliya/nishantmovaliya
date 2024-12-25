@@ -2,11 +2,9 @@
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
 <br/>
-<div class=container style="background-color: #1d2f30;">
 <b>👨‍💻 I'm a Backend Developer
 with 2.3 years of Experience.
 </b>
-</div>
 <br>
 
 <!-- <a href="https://app.daily.dev/nishant4"><img src="https://api.daily.dev/devcards/v2/EhBaHx51B2sh1AtLphynI.png?type=wide&r=iq9" width="652" alt="nishant movaliya's Dev Card"/></a> -->
