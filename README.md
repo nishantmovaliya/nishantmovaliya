@@ -1,18 +1,4 @@
-<style>
-  *{
-    /* margin: 0; */
-    /* padding:0; */
-    /* box-sizing: border-box; */
-    font-family: 'Montserrat', sans-serif;
-  }
-  .container{
-    background: linear-gradient(90deg, #1d2f30, #0d0e12);
-  }
-  img {
-    background-color: transparent; 
-  }
-</style>
-<div class=container>
+<div class=container style="font-family: 'Montserrat', sans-serif; background: linear-gradient(90deg, #1d2f30, #0d0e12);">
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="30" width="30">, I'm [Nishant Movaliya!] 
 
 <br/>
